@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_smart_home',
         'USER': 'postgres',
-        'PASSWORD': '',
+        'PASSWORD': 'Darinka1308',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
